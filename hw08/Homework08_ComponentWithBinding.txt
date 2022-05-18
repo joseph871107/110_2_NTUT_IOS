@@ -1,0 +1,25 @@
+2022/05/18 實驗課課堂作業08 ComponentWithBinding
+完成功能與配分：
+使用以下元件(全部都要用到)製作畫面，請使用SwiftUI進行撰寫
+1. Text (10%)
+2. Image (10%)
+3. Button (10%)
+4. Date Picker (10%)
+5. Picker (10%)
+6. Slider (10%)
+7. TextField (10%)
+8. Toggle (10%)
+9. Stepper (10%)
+10. 點選 BUTTON 後利用 ALERT 顯示結果。Alert (10%)
+繳交方式:
+因i學園上傳空間有限，請勿直接繳交影片檔案到i學園
+請根據i學園的“Github作業繳交使用範例.pdf”方式進行繳交，將作業錄製成影片進行上傳，繳交作業檔案名稱格式如下
+！請將作業錄製成影片上傳！
+上課已檢查:
+github檔案格式: 學號_lab08_checked.mov
+i學園檔案格式: 學號_lab08_checked.txt
+上課未檢查:
+github檔案格式: 學號_lab08.mov
+i學園檔案格式: 學號_lab08.txt
+課堂pdf:
+https://drive.google.com/file/d/1Rt2pAHXtBSlLFDO1qMpBtm1P5IS2syqA/view
