@@ -1,0 +1,9 @@
+2022/06/15 實驗課課堂作業12 ML
+完成功能與配分：
+結合Core ML框架實作出擁有圖像分類功能的App
+1. 使用兩種模型對圖片做辨識 40%
+ 可使用現有模型、用Create ML訓練的模型
+2.顯示模型結果：
+ 對圖片辨識的類別（Label） 30%
+ 對圖片辨識的機率（Probability）30%
+專案檔：https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1-buffkpzkrE0OrF1TBSzu-OxkN8q61FQ%3Ffbclid%3DIwAR0D7hTF1MdeEmK0-0XePZ-WwdmiGgXaT_BDw3hCTZsIQA-DmLDurPeimiU&h=AT08BdvRRt0iOiqufkK2xlaB9HcqGLUFc7JHh54fStqUmiq-h8R9uEyK0YTNskkIYBo8uuv3noCX4x9ZqCzQtmiNb0MzoILYN6g87Y179L6p6VNxGeNd-zWMp9piUNciyUxzHKUSJg&__tn__=-UK-R&c[0]=AT0hVvsHC3TfG0qpwO3g3x1HhHvSafdVeYHkrpsTCbNh6AIJbBB4f27BPQNPHLUM1caooUXOxgqi8MeV5_hDGpMWeCZSvD9XxWrAz_7IC1ZQF7sug9HS4zuiSm2kirIyqmL7cCYvIUq3-wFpNQPuqsG6_E23kDrJMpLmqES-J3l26osCocvAA5J37yuewirul46lJ2WADcO4KUlu4HGqcv8dpRAMoOI
